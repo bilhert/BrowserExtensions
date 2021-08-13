@@ -1,0 +1,7 @@
+Privacy policy
+==============
+
+The browser extension **WebP Image Converter** does not collect any data, is free of ads, tracking tools etc.
+No external services are used let this extension function.
+
+Hilbert Eikelboom
